@@ -1,0 +1,32 @@
+{
+  "P1": {
+    "similar_patients_TFIDF": [
+      "P3",
+      "P2"
+    ],
+    "similar_patients_word2vec": [
+      "P2",
+      "P3"
+    ]
+  },
+  "P2": {
+    "similar_patients_TFIDF": [
+      "P1",
+      "P3"
+    ],
+    "similar_patients_word2vec": [
+      "P1",
+      "P3"
+    ]
+  },
+  "P3": {
+    "similar_patients_TFIDF": [
+      "P1",
+      "P2"
+    ],
+    "similar_patients_word2vec": [
+      "P1",
+      "P2"
+    ]
+  }
+}

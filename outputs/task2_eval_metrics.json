@@ -1,0 +1,32 @@
+{
+  "P1": {
+    "TF_IDF": {
+      "precision_5": 0.5,
+      "recall_5": 1.0
+    },
+    "word2vec": {
+      "precision_5": 0.5,
+      "recall_5": 1.0
+    }
+  },
+  "P2": {
+    "TF_IDF": {
+      "precision_5": 0.5,
+      "recall_5": 1.0
+    },
+    "word2vec": {
+      "precision_5": 0.5,
+      "recall_5": 1.0
+    }
+  },
+  "P3": {
+    "TF_IDF": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    },
+    "word2vec": {
+      "precision_5": 0.0,
+      "recall_5": 0.0
+    }
+  }
+}
